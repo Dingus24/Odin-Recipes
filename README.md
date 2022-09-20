@@ -1,2 +1,3 @@
 # odin-recipes
-recipes for different meals for the Odin Project assignment
+Recipes for first assignment finished
+
